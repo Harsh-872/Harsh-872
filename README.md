@@ -1,16 +1,24 @@
-## Hi there 👋
+# Hi, I'm Harsh 👋
 
-<!--
-**Harsh-872/Harsh-872** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Harsh Mangal, an 18-year-old B.Tech CSE (Core) student at VIT Bhopal (2025–2029).
 
-Here are some ideas to get you started:
+Right now, I'm just starting my journey in tech — learning programming, understanding how things work, and trying to improve a little every day.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💡 What I'm Learning
+
+* Basics of programming (C / Python)
+* Problem solving
+* Core computer science concepts
+
+## 🎯 What I Want to Do
+
+I want to become a skilled developer and build things that are actually useful in real life.
+
+## 🌱 A Little About Me
+
+I enjoy exploring new tech, trying out small projects, and learning step by step.
+Still a beginner, but motivated to grow and get better.
+
+---
+
+"Just getting started 🚀"
